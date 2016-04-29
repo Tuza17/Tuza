@@ -2,3 +2,6 @@
 
 echo "Bem Vindos ao Início do site do projeto"
 echo "Adicionando algo :P"
+echo "Fale algo aê : "
+read fala
+echo "Você falou : $fala"
