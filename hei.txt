@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Bem Vindos ao Início do site do projeto"
